@@ -8,3 +8,7 @@
   -ms-overflow-style: none; 
   scrollbar-width: none; 
 }
+
+html, body {
+  background-color: #6F1D1B;
+}

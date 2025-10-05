@@ -7,7 +7,7 @@ function App() {
     <Router>
       <Routes>
         {/* add pages here */}
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
       </Routes>
     </Router>
   );
