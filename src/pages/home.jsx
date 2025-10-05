@@ -1,7 +1,7 @@
 const Home = () => {
 
   return (
-    <div className="flex justify-center items-center scrollbar-hide h-screen">
+    <div className="flex justify-center items-center scrollbar-hide h-screen my-10 md:my-0">
       <div className="bg-[#FFE6A7] flex md:w-120 w-90 rounded-3xl flex-col pb-5">
         <div className="bg-[#432818] flex h-30 w-full rounded-t-2xl"></div>
         <div className="bg-[#FFE6A7] flex justify-center items-center rounded-full w-20 h-20 ml-5 -mt-10">
