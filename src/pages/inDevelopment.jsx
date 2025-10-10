@@ -74,7 +74,7 @@ const InDevelopment = () => {
             </div>
             <hr className="text-[#6F1D1B] ml-14 -mr-3" />
 
-            {/* youtube */}
+            {/* youtube 
             <div className="flex flex-row items-center space-x-4">
               <div className="flex justify-center items-center w-10 h-10 rounded-md bg-[#432818]">
                 <i className="fa-brands fa-youtube"></i>
@@ -85,14 +85,28 @@ const InDevelopment = () => {
               </a>
             </div>
             <hr className="text-[#6F1D1B] ml-14 -mr-3" />
+            */}
 
-            {/* webtoon */}
+            {/* webtoon 
             <div className="flex flex-row items-center space-x-4">
               <div className="flex justify-center items-center w-10 h-10 rounded-md bg-[#432818]">
                 <i className="fa fa-book-bookmark"></i>
               </div>
               <p className="text-sm">webtoon canvas</p>
               <a href="https://www.webtoons.com/p/community/en/u/ha0sc" className="contents">
+                <i className="ml-auto mr-2 fa-solid fa-arrow-up-right-from-square"></i>
+              </a>
+            </div>
+            <hr className="text-[#6F1D1B] ml-14 -mr-3" />
+            */}
+
+            {/* kofi */}
+            <div className="flex flex-row items-center space-x-4">
+              <div className="flex justify-center items-center w-10 h-10 rounded-md bg-[#432818]">
+                <i className="fa fa-mug-hot"></i>
+              </div>
+              <p className="text-sm">kofi</p>
+              <a href="https://ko-fi.com/marsrei" className="contents">
                 <i className="ml-auto mr-2 fa-solid fa-arrow-up-right-from-square"></i>
               </a>
             </div>
